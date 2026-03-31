@@ -19,11 +19,6 @@
         "holiday": true,
         "summary": ["Tahun Baru Imlek 2577 Kongzili"]
     },
-    "2026-02-19": {
-        "description": ["Perayaan"],
-        "holiday": false,
-        "summary": ["1 Ramadan 1447 Hijriah"]
-    },
     "2026-03-18": {
         "description": ["Cuti bersama"],
         "holiday": true,
@@ -63,11 +58,6 @@
         "description": ["Hari libur nasional"],
         "holiday": true,
         "summary": ["Wafat Isa Almasih"]
-    },
-    "2026-04-05": {
-        "description": ["Perayaan"],
-        "holiday": false,
-        "summary": ["Hari Paskah"]
     },
     "2026-05-01": {
         "description": ["Hari libur nasional"],
@@ -128,10 +118,5 @@
         "description": ["Hari libur nasional"],
         "holiday": true,
         "summary": ["Hari Raya Natal"]
-    },
-    "2026-12-31": {
-        "description": ["Perayaan"],
-        "holiday": false,
-        "summary": ["Malam Tahun Baru 2027"]
     }
 }
