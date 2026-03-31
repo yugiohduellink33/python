@@ -1,245 +1,137 @@
 {
-    "2025-01-01": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-01-01": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Tahun Baru 2025 Masehi"
-        ]
+        "summary": ["Tahun Baru 2026 Masehi"]
     },
-    "2025-01-27": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-01-16": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Isra Mi'raj Nabi Muhammad SAW"
-        ]
+        "summary": ["Isra Mi'raj Nabi Muhammad SAW"]
     },
-    "2025-01-28": {
-        "description": [
-            "Cuti bersama"
-        ],
+    "2026-02-16": {
+        "description": ["Cuti bersama"],
         "holiday": true,
-        "summary": [
-            "Cuti Bersama Tahun Baru Imlek"
-        ]
+        "summary": ["Cuti Bersama Tahun Baru Imlek"]
     },
-    "2025-01-29": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-02-17": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Tahun Baru Imlek 2576 Kongzili"
-        ]
+        "summary": ["Tahun Baru Imlek 2577 Kongzili"]
     },
-    "2025-03-28": {
-        "description": [
-            "Cuti bersama"
-        ],
-        "holiday": true,
-        "summary": [
-            "Cuti Bersama Hari Suci Nyepi Tahun Baru Saka 1947"
-        ]
-    },
-    "2025-03-29": {
-        "description": [
-            "Hari libur nasional"
-        ],
-        "holiday": true,
-        "summary": [
-            "Hari Suci Nyepi Tahun Baru Saka 1947"
-        ]
-    },
-    "2025-03-31": {
-        "description": [
-            "Hari libur nasional"
-        ],
-        "holiday": true,
-        "summary": [
-            "Hari Raya Idul Fitri 1446 Hijriah"
-        ]
-    },
-    "2025-04-01": {
-        "description": [
-            "Hari libur nasional"
-        ],
-        "holiday": true,
-        "summary": [
-            "Hari Raya Idul Fitri 1446 Hijriah"
-        ]
-    },
-    "2025-04-02": {
-        "description": [
-            "Cuti bersama"
-        ],
-        "holiday": true,
-        "summary": [
-            "Cuti Bersama Idul Fitri 1446 Hijriah"
-        ]
-    },
-    "2025-04-03": {
-        "description": [
-            "Cuti bersama"
-        ],
-        "holiday": true,
-        "summary": [
-            "Cuti Bersama Idul Fitri 1446 Hijriah"
-        ]
-    },
-    "2025-04-04": {
-        "description": [
-            "Cuti bersama"
-        ],
-        "holiday": true,
-        "summary": [
-            "Cuti Bersama Idul Fitri 1446 Hijriah"
-        ]
-    },
-    "2025-04-07": {
-        "description": [
-            "Cuti bersama"
-        ],
-        "holiday": true,
-        "summary": [
-            "Cuti Bersama Idul Fitri 1446 Hijriah"
-        ]
-    },
-    "2025-04-18": {
-        "description": [
-            "Hari libur nasional"
-        ],
-        "holiday": true,
-        "summary": [
-            "Wafat Isa Almasih"
-        ]
-    },
-    "2025-04-20": {
-        "description": [
-            "Perayaan"
-        ],
+    "2026-02-19": {
+        "description": ["Perayaan"],
         "holiday": false,
-        "summary": [
-            "Hari Paskah"
-        ]
+        "summary": ["1 Ramadan 1447 Hijriah"]
     },
-    "2025-05-01": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-03-18": {
+        "description": ["Cuti bersama"],
         "holiday": true,
-        "summary": [
-            "Hari Buruh Internasional"
-        ]
+        "summary": ["Cuti Bersama Hari Suci Nyepi"]
     },
-    "2025-05-12": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-03-19": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Hari Raya Waisak 2569 BE"
-        ]
+        "summary": ["Hari Suci Nyepi Tahun Baru Saka 1948"]
     },
-    "2025-05-13": {
-        "description": [
-            "Cuti bersama"
-        ],
+    "2026-03-20": {
+        "description": ["Cuti bersama"],
         "holiday": true,
-        "summary": [
-            "Cuti Bersama Hari Raya Waisak 2569 BE"
-        ]
+        "summary": ["Cuti Bersama Idul Fitri 1447 Hijriah"]
     },
-    "2025-05-29": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-03-21": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Kenaikan Isa Almasih"
-        ]
+        "summary": ["Hari Raya Idul Fitri 1447 Hijriah"]
     },
-    "2025-05-30": {
-        "description": [
-            "Cuti bersama"
-        ],
+    "2026-03-22": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Cuti Bersama Kenaikan Isa Almasih"
-        ]
+        "summary": ["Hari Raya Idul Fitri 1447 Hijriah"]
     },
-    "2025-06-01": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-03-23": {
+        "description": ["Cuti bersama"],
         "holiday": true,
-        "summary": [
-            "Hari Lahir Pancasila"
-        ]
+        "summary": ["Cuti Bersama Idul Fitri 1447 Hijriah"]
     },
-    "2025-06-06": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-03-24": {
+        "description": ["Cuti bersama"],
         "holiday": true,
-        "summary": [
-            "Hari Raya Idul Adha 1446 Hijriah"
-        ]
+        "summary": ["Cuti Bersama Idul Fitri 1447 Hijriah"]
     },
-    "2025-06-09": {
-        "description": [
-            "Cuti bersama"
-        ],
+    "2026-04-03": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Cuti Bersama Idul Adha 1446 Hijriah"
-        ]
+        "summary": ["Wafat Isa Almasih"]
     },
-    "2025-06-27": {
-        "description": [
-            "Hari libur nasional"
-        ],
-        "holiday": true,
-        "summary": [
-            "Tahun Baru Islam 1447 Hijriah"
-        ]
+    "2026-04-05": {
+        "description": ["Perayaan"],
+        "holiday": false,
+        "summary": ["Hari Paskah"]
     },
-    "2025-08-17": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-05-01": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Hari Kemerdekaan RI"
-        ]
+        "summary": ["Hari Buruh Internasional"]
     },
-    "2025-09-05": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-05-14": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Maulid Nabi Muhammad SAW"
-        ]
+        "summary": ["Kenaikan Isa Almasih"]
     },
-    "2025-12-25": {
-        "description": [
-            "Hari libur nasional"
-        ],
+    "2026-05-15": {
+        "description": ["Cuti bersama"],
         "holiday": true,
-        "summary": [
-            "Hari Raya Natal"
-        ]
+        "summary": ["Cuti Bersama Kenaikan Isa Almasih"]
     },
-    "2025-12-26": {
-        "description": [
-            "Cuti bersama"
-        ],
+    "2026-05-27": {
+        "description": ["Hari libur nasional"],
         "holiday": true,
-        "summary": [
-            "Cuti Bersama Hari Raya Natal"
-        ]
+        "summary": ["Hari Raya Idul Adha 1447 Hijriah (perkiraan)"]
+    },
+    "2026-05-28": {
+        "description": ["Cuti bersama"],
+        "holiday": true,
+        "summary": ["Cuti Bersama Idul Adha 1447 Hijriah"]
+    },
+    "2026-05-31": {
+        "description": ["Hari libur nasional"],
+        "holiday": true,
+        "summary": ["Hari Raya Waisak 2570 BE (perkiraan)"]
+    },
+    "2026-06-01": {
+        "description": ["Hari libur nasional"],
+        "holiday": true,
+        "summary": ["Hari Lahir Pancasila"]
+    },
+    "2026-06-16": {
+        "description": ["Hari libur nasional"],
+        "holiday": true,
+        "summary": ["Tahun Baru Islam 1448 Hijriah (perkiraan)"]
+    },
+    "2026-08-17": {
+        "description": ["Hari libur nasional"],
+        "holiday": true,
+        "summary": ["Hari Kemerdekaan Republik Indonesia"]
+    },
+    "2026-08-25": {
+        "description": ["Hari libur nasional"],
+        "holiday": true,
+        "summary": ["Maulid Nabi Muhammad SAW (perkiraan)"]
+    },
+    "2026-12-24": {
+        "description": ["Cuti bersama"],
+        "holiday": true,
+        "summary": ["Cuti Bersama Hari Raya Natal"]
+    },
+    "2026-12-25": {
+        "description": ["Hari libur nasional"],
+        "holiday": true,
+        "summary": ["Hari Raya Natal"]
+    },
+    "2026-12-31": {
+        "description": ["Perayaan"],
+        "holiday": false,
+        "summary": ["Malam Tahun Baru 2027"]
     }
 }
